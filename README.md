@@ -2,7 +2,7 @@
 
 
 ### About me:
-- 🏡💻 I’m currently working on [Casa Magalhães](https://github.com/casamagalhaes) as Full-Stack(Node/Vue) developer.
+- 🏡💻 I’m currently working on [Grupo Boticário](https://github.com/grupoboticario) as Full-Stack(Node/Vue) developer.
 - :school: Academic in the course of information systems.
 - 📫 How to reach me: joaquimnt18@gmail.com
 <!--
